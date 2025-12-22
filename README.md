@@ -41,7 +41,7 @@
 |:---:|:---:|
 | *Realm Roles Configuration* | *Client Management* |
 
-| ![User Management](https://github.com/ZiadMahmoud2003/hospital-management-rbac/blob/main/images/usermanagment.png?raw=true) | ![Keycloak Users](https://github.com/ZiadMahmoud2003/hospital-management-rbac/blob/main/images/keycloak-user.png?raw=true) |
+| ![User Management](https://github.com/ZiadMahmoud2003/hospital-management-rbac/blob/main/images/usermanagment.png?raw=true) | ![Keycloak Users](https://github.com/ZiadMahmoud2003/hospital-management-rbac/blob/main/images/keycloak-users.png?raw=true) |
 |:---:|:---:|
 | *Application User Management* | *Keycloak User Console* |
 
