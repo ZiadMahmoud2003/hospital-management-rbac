@@ -1246,13 +1246,13 @@ gantt
 
 **Made with ❤️ by Our 7-Member Development Team**
 
-[![Ziad Mahmoud](https://img.shields.io/badge/Ziad_Project_Lead-1a56db?style=flat-square&logo=github)](https://github.com/ZiadMahmoud2003)
-[![Mayssoun Elmasry](https://img.shields.io/badge/Mayssoun_Backend-059669?style=flat-square&logo=python)](https://github.com/mayssouneelmasry)
-[![Maryam Frontend](https://img.shields.io/badge/Maryam_Frontend-9333ea?style=flat-square&logo=javascript)](https://github.com/Maryam702127)
-[![Amina Security](https://img.shields.io/badge/Amina_Security-dc2626?style=flat-square&logo=keycloak)](https://github.com/AminaFerra)
-[![Khattab Database](https://img.shields.io/badge/Khattab_Database-f59e0b?style=flat-square&logo=postgresql)](https://github.com/Khattab101)
-[![Hanin Testing](https://img.shields.io/badge/Hanin_Testing-84cc16?style=flat-square&logo=testinglibrary)](https://github.com/hanin2338)
-[![Abdallah DevOps](https://img.shields.io/badge/Abdallah_DevOps-0ea5e9?style=flat-square&logo=docker)](https://github.com/Abdallah-M-Hegazy)
+[![Ziad ](https://img.shields.io/badge/Ziad_Project_Lead-1a56db?style=flat-square&logo=github)](https://github.com/ZiadMahmoud2003)
+[![Mayssoun ](https://img.shields.io/badge/Mayssoun_Backend-059669?style=flat-square&logo=python)](https://github.com/mayssouneelmasry)
+[![Maryam ](https://img.shields.io/badge/Maryam_Frontend-9333ea?style=flat-square&logo=javascript)](https://github.com/Maryam702127)
+[![Amina ](https://img.shields.io/badge/Amina_Security-dc2626?style=flat-square&logo=keycloak)](https://github.com/AminaFerra)
+[![Khattab ](https://img.shields.io/badge/Khattab_Database-f59e0b?style=flat-square&logo=postgresql)](https://github.com/Khattab101)
+[![Hanin ](https://img.shields.io/badge/Hanin_Testing-84cc16?style=flat-square&logo=testinglibrary)](https://github.com/hanin2338)
+[![Abdallah ](https://img.shields.io/badge/Abdallah_DevOps-0ea5e9?style=flat-square&logo=docker)](https://github.com/Abdallah-M-Hegazy)
 
 **🌟 Star this repository to support healthcare technology innovation!**
 
@@ -1270,7 +1270,3 @@ gantt
 *Total Code Lines: 2,500+*  
 *Active Contributors: 7*
 
-
-**Note:** The snake animation requires a GitHub Actions workflow. If it doesn't appear immediately, it will generate after your first push with this README.
-
-**Enjoy your professional, animated, team-inclusive README!** 🎉
