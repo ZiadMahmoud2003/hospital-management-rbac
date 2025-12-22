@@ -1,0 +1,4 @@
+Username,Email,Password,FirstName,LastName,Assigned Role
+patient1,patient1@example.com,pass123,Patient,One,patient
+doctor1,doctor1@example.com,pass123,Doctor,One,doctor
+admin1,admin1@example.com,pass123,Admin,One,admin

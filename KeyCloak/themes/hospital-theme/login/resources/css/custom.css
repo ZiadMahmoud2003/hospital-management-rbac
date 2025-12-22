@@ -1,0 +1,376 @@
+/* ===== RESET & BASE ===== */
+.login-pf body {
+    background: linear-gradient(135deg, #f0fff4 0%, #dcfce7 100%) !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.login-pf .container {
+    background: white !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
+    padding: 40px !important;
+    width: 100% !important;
+    max-width: 400px !important; /* أصغر حجم */
+    margin: 20px auto !important; /* مركز تماما */
+    border: 1px solid #d1fae5 !important;
+    position: relative;
+}
+
+/* ===== CENTER EVERYTHING ===== */
+.hospital-header,
+.form-group,
+.form-actions,
+.register-link {
+    width: 100% !important;
+    max-width: 320px !important; /* عرض ثابت */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+}
+
+/* ===== HOSPITAL HEADER ===== */
+.hospital-header {
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+
+.hospital-logo {
+    margin-bottom: 20px;
+}
+
+.hospital-icon {
+    width: 60px !important;
+    height: 60px !important;
+    color: #10b981 !important;
+    margin: 0 auto 15px !important;
+    display: block !important;
+}
+
+.hospital-title {
+    color: #065f46 !important;
+    font-size: 24px !important; /* أصغر */
+    font-weight: 700 !important;
+    margin: 0 0 5px 0 !important;
+    line-height: 1.3 !important;
+}
+
+.hospital-subtitle {
+    color: #047857 !important;
+    font-size: 14px !important; /* أصغر */
+    font-weight: 500 !important;
+    margin: 0 0 5px 0 !important;
+}
+
+.hospital-instruction {
+    color: #6b7280 !important;
+    font-size: 13px !important; /* أصغر */
+    margin: 0 !important;
+}
+
+/* ===== FORM STYLES ===== */
+.form-group {
+    margin-bottom: 20px !important;
+}
+
+.form-label {
+    display: block !important;
+    color: #374151 !important;
+    font-size: 14px !important; /* أصغر */
+    font-weight: 600 !important;
+    margin-bottom: 8px !important;
+}
+
+.form-input {
+    width: 100% !important;
+    padding: 12px 14px !important; /* أصغر */
+    border: 1.5px solid #d1d5db !important;
+    border-radius: 8px !important;
+    font-size: 14px !important; /* أصغر */
+    color: #1f2937 !important;
+    background: #f9fafb !important;
+    transition: all 0.2s ease !important;
+    box-sizing: border-box !important;
+    height: 44px !important; /* أقصر */
+}
+
+.form-input:focus {
+    outline: none !important;
+    border-color: #10b981 !important;
+    background: white !important;
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1) !important;
+}
+
+.form-input::placeholder {
+    color: #9ca3af !important;
+    font-size: 14px !important;
+}
+
+/* ===== REMEMBER ME ===== */
+.remember-me {
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 20px !important;
+    width: 100% !important;
+    max-width: 320px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.remember-me input[type="checkbox"] {
+    width: 16px !important;
+    height: 16px !important;
+    margin: 0 8px 0 0 !important;
+    accent-color: #10b981 !important;
+}
+
+.remember-me label {
+    color: #4b5563 !important;
+    font-size: 14px !important;
+    cursor: pointer !important;
+}
+
+/* ===== ALERT MESSAGES ===== */
+.alert {
+    display: flex !important;
+    align-items: center !important;
+    padding: 12px 14px !important;
+    border-radius: 8px !important;
+    margin-bottom: 20px !important;
+    font-size: 14px !important;
+    width: 100% !important;
+    max-width: 320px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.alert-error {
+    background: #fef2f2 !important;
+    border: 1px solid #fecaca !important;
+    color: #dc2626 !important;
+}
+
+.alert-success {
+    background: #f0fdf4 !important;
+    border: 1px solid #bbf7d0 !important;
+    color: #065f46 !important;
+}
+
+/* ===== BUTTONS ===== */
+.btn {
+    padding: 12px 20px !important; /* أصغر */
+    border-radius: 8px !important;
+    font-size: 15px !important; /* أصغر */
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    border: none !important;
+    text-align: center !important;
+    display: inline-block !important;
+    height: 44px !important; /* أقصر */
+}
+
+.btn-block {
+    width: 100% !important;
+    display: block !important;
+    max-width: 320px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%) !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #059669 0%, #047857 100%) !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.25) !important;
+}
+
+.btn-primary:active {
+    transform: translateY(0) !important;
+}
+
+/* ===== REGISTER LINK ===== */
+.register-link {
+    text-align: center !important;
+    margin: 15px auto !important;
+    padding: 12px !important;
+    background: #f9fafb !important;
+    border-radius: 8px !important;
+    border: 1px solid #e5e7eb !important;
+    font-size: 14px !important;
+}
+
+.register-link a {
+    color: #059669 !important;
+    text-decoration: none !important;
+    font-weight: 600 !important;
+}
+
+.register-link a:hover {
+    text-decoration: underline !important;
+}
+
+/* ===== SOCIAL LOGIN ===== */
+.social-login {
+    margin-top: 20px !important;
+    width: 100% !important;
+    max-width: 320px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.social-title {
+    text-align: center !important;
+    color: #6b7280 !important;
+    font-size: 14px !important;
+    margin: 0 0 12px 0 !important;
+}
+
+.social-buttons {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+}
+
+.btn-social {
+    background: white !important;
+    border: 1px solid #e5e7eb !important;
+    color: #4b5563 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 10px !important;
+    font-size: 14px !important;
+    height: 40px !important;
+    padding: 10px !important;
+}
+
+.btn-social:hover {
+    background: #f9fafb !important;
+    border-color: #d1d5db !important;
+}
+
+/* ===== HIDE KEYCLOAK DEFAULTS ===== */
+#kc-header {
+    display: none !important;
+}
+
+.card-pf {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+.login-pf-page {
+    background: transparent !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 480px) {
+    .login-pf .container {
+        padding: 30px 20px !important;
+        margin: 15px !important;
+        max-width: 340px !important;
+    }
+    
+    .hospital-header,
+    .form-group,
+    .form-actions,
+    .register-link,
+    .social-login {
+        max-width: 280px !important;
+    }
+    
+    .hospital-title {
+        font-size: 22px !important;
+    }
+    
+    .hospital-subtitle {
+        font-size: 13px !important;
+    }
+    
+    .form-input {
+        height: 42px !important;
+        font-size: 13px !important;
+    }
+    
+    .btn {
+        height: 42px !important;
+        font-size: 14px !important;
+    }
+}
+
+@media (max-width: 320px) {
+    .login-pf .container {
+        padding: 20px 15px !important;
+        max-width: 280px !important;
+    }
+    
+    .hospital-header,
+    .form-group,
+    .form-actions,
+    .register-link,
+    .social-login {
+        max-width: 240px !important;
+    }
+}
+
+/* ===== ANIMATION ===== */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.login-pf .container {
+    animation: fadeIn 0.3s ease-out;
+}
+
+/* ===== FIXES ===== */
+*:focus {
+    outline: none !important;
+}
+
+#kc-content {
+    width: 100% !important;
+}
+
+#kc-content-wrapper {
+    padding: 0 !important;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #10b981;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #059669;
+}
