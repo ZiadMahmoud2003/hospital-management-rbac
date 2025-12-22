@@ -1264,7 +1264,7 @@ gantt
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank+You+For+Visiting!&fontSize=30&fontAlignY=70)
 
-*Last Updated: January 2024*  
+*Last Updated: Dec 20205*  
 *Version: 2.0.0*  
 *Team Size: 7 Members*  
 *Total Code Lines: 2,500+*  
