@@ -27,15 +27,21 @@
 
 ### 🎨 **Application Screenshots**
 
-| ![Admin Dashboard](admin-dashboar.png) | ![Patient Management](patients.png) |
+| ![Admin Dashboard](<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/0b7771cc-58cf-48f3-88aa-e9aeb4cf0444" />
+) | ![Patient Management](<img width="1415" height="293" alt="image" src="https://github.com/user-attachments/assets/221e72a2-2018-42f2-b5a6-f08a3505ae85" />
+) |
 |:---:|:---:|
 | *Admin Dashboard* | *Patient Management* |
 
-| ![Doctor Directory](Doctors.png) | ![Appointment Scheduling](appointment.png) |
+| ![Doctor Directory](<img width="1471" height="927" alt="image" src="https://github.com/user-attachments/assets/b6a6f2fa-8e50-437e-8d10-24eee2180bdf" />
+) | ![Appointment Scheduling](<img width="1505" height="560" alt="image" src="https://github.com/user-attachments/assets/3eeffe81-2d2a-4a61-9ee3-0c2dee5804ad" />
+) |
 |:---:|:---:|
 | *Doctor Directory* | *Appointment Scheduling* |
 
-| ![User Profile](profile.png) | ![Custom Login Theme](theme.png) |
+| ![User Profile](<img width="1167" height="872" alt="image" src="https://github.com/user-attachments/assets/b3a1b473-800e-45cf-b1c9-cd47a3a77806" />
+) | ![Custom Login Theme](<img width="732" height="470" alt="image" src="https://github.com/user-attachments/assets/1ef362cf-376a-4f15-900d-6c1493924a05" />
+) |
 |:---:|:---:|
 | *User Profile Management* | *Custom Login Interface* |
 
@@ -48,7 +54,9 @@
 <details>
 <summary><strong>🛡️ Click to view Keycloak Configuration</strong></summary>
 
-| ![Keycloak Roles](keycloak-roles.png) | ![Keycloak Clients](keycloak-clients.png) |
+| ![Keycloak Roles](<img width="1918" height="546" alt="image" src="https://github.com/user-attachments/assets/6a6653ba-1a00-474e-bbd1-c4886faad728" />
+) | ![Keycloak Clients](<img width="1912" height="818" alt="keycloak-clients" src="https://github.com/user-attachments/assets/5cbba687-b9ef-44bf-a3a2-061dcfd4acdd" />
+) |
 |:---:|:---:|
 | *Realm Roles Configuration* | *Client Management* |
 
@@ -111,7 +119,9 @@
 <details>
 <summary><strong>📊 Click to view User Management</strong></summary>
 
-| ![User Management](usermanagment.png) | ![Keycloak Users](keycloak-user.png) |
+| ![User Management](<img width="1658" height="515" alt="usermanagment" src="https://github.com/user-attachments/assets/b93e410a-1ff9-4dd8-875c-346a51edc651" />
+) | ![Keycloak Users](<img width="1918" height="577" alt="keycloak-users" src="https://github.com/user-attachments/assets/24f12014-213d-43bc-9728-81a844da62d0" />
+) |
 |:---:|:---:|
 | *Application User Management* | *Keycloak User Console* |
 
@@ -544,8 +554,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 **Authors**
 
-- **Your Name** - *Initial Developer* - [@yourusername](https://github.com/yourusername)
-- **Contributors** - [List of contributors](https://github.com/yourusername/hospital-management-rbac/graphs/contributors)
+- **Contributors** - [List of contributors](https://github.com/ZiadMahmoud2003/hospital-management-rbac/graphs/contributors)
 
 ## 🙏 **Acknowledgments**
 
@@ -557,9 +566,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Support**
 
 - **Documentation:** [Full Documentation](docs/)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/hospital-management-rbac/issues)
-- **Email:** support@hospital-management.example.com
-- **Discord:** [Join our community](https://discord.gg/your-discord-link)
+- **Issues:** [GitHub Issues](https://github.com/ZiadMahmoud2003/hospital-management-rbac/issues)
+
 
 ## 🌟 **Show Your Support**
 
@@ -577,8 +585,6 @@ curl -X PUT -u "username:token" https://api.github.com/user/starred/yourusername
 
 **Made with ❤️ for the healthcare community**
 
-[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 **🌟 Star this repository to support the project!**
 
